@@ -4,6 +4,7 @@
 
 <hr align="center"/>
 
-
 <h4 align="center">⚙️ I’m currently working on @Scoutli</h4>
 <h4 align="center">💸 I’m currently learning web technologies like NextJS, React & TailwindCSS</h4>
+
+<hr align="center"/>
