@@ -2,5 +2,7 @@
 
 <h3 align="center">🖥️ Fullstack Developer</h3>
 
+<hr/>
+
 <h5 align="center">⚙️ I’m currently working on @Scoutli</h5>
 <h5 align="center">💸 I’m currently learning web technologies like NextJS, React & TailwindCSS</h5>
