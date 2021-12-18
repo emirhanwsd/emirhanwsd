@@ -1,5 +1,4 @@
 <h1 align="center">Hi 🤙, I'm Emirhan</h1>
-
 <h2 align="center">🖥️ Fullstack Developer</h2>
 
 <h4 align="center">⚙️ I’m currently working on @Scoutli</h4>
