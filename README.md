@@ -24,15 +24,15 @@ class About extends Me{
     public function getSkills(): array{
         return [
             PHP::class,
+            Laravel::class,
             HTML::class,
             CSS::class,
             SASS::class,
-            JavaScript::class,
-            Laravel::class,
-            React::class,
-            NextJS::class,
             TailwindCSS::class,
-            Bootstrap::class
+            Bootstrap::class,
+            JavaScript::class,
+            React::class,
+            NextJS::class
         ];
     }
     
