@@ -1,7 +1,7 @@
 ```js
 import { Emirhan } from "me"
 
-let me = new Emirhan()
+const me = new Emirhan()
 
 console.log(me.getAge()) /* 17 */
 console.log(me.getLanguages()) /* ["JavaScript", "HTML", "CSS", "PHP"] */
