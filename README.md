@@ -2,4 +2,4 @@
 
 ### 🔭 I am working at [Scoutli](https://scoutli.co) as a _Frontend Developer_ and I assume all of the Frontend works. I also work as a _Freelancer_.
 
-#### 💖 Being hungry for knowledge and dealing with new things provides me to be more loyal and treat with love my work. I don't forget that _"There is always better"_ and I am working for the aforementioned *"better"* and I'll work.
+### 💖 Being hungry for knowledge and dealing with new things provides me to be more loyal and treat with love my work. I don't forget that _"There is always better"_ and I am working for the aforementioned *"better"* and I'll work.
