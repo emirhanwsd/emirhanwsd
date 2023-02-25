@@ -1,5 +1,5 @@
-Hello everybody, let me tell you about myself. This is _Emirhan Akpınar_. I was born in 2005 and I am a high school student. I am into computers ever since I could remember. I turned this interest to software when I was a mid-school student. I continue with Frontend to which adventure I've started with Backend languages. I noticed to I feel more comfortable on Frontend a few years ago. I developed my design eye by the curiosity of drawing and designing some things that came from my childhood.
+Hello everyone, my name is _Emirhan Akpınar_, and I am a high school student born in 2005. Ever since I can remember, I have been passionate about computers, and during my middle school years, I began exploring software development. Although I started with backend languages, I transitioned to frontend development and discovered that I feel more comfortable working on the frontend. I have also honed my design skills through my childhood curiosity in drawing and designing.
 
-I am working at [Scoutli](https://scoutli.co) as a _Frontend Developer_ and I assume all of the Frontend works. I also work as a _Freelancer_.
+Currently, I work as a _Frontend Developer_ at [Scoutli](https://scoutli.co), where I am responsible for all Frontend work. I also work as a _freelancer_.
 
-Being hungry for knowledge and dealing with new things provides me to be more loyal and treat with love my work. I don't forget that _"There is always better"_ and I am working for the aforementioned *"better"* and I'll work.
+I am always eager to learn new things and strive for knowledge, which helps me approach my work with passion and dedication. I firmly believe in the saying _"there is always room for improvement,"_ and I am constantly working towards achieving the aforementioned _"better."_
